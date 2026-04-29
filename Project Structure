@@ -1,0 +1,22 @@
+smart-wardrobe-ai/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── AddItem.tsx
+│   │   ├── WardrobeGrid.tsx
+│   │   ├── OutfitPanel.tsx
+│   │   ├── MoodSelector.tsx
+│   │   ├── WeatherSelector.tsx
+│   ├── hooks/
+│   │   ├── useWardrobe.ts
+│   ├── utils/
+│   │   ├── outfitEngine.ts
+│   ├── types/
+│   │   ├── clothing.ts
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── index.css
+├── package.json
+├── tailwind.config.js
+├── tsconfig.json
+└── README.md
